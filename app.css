@@ -101,7 +101,8 @@ body {
 }
 #btn:hover {
 	background: #eaeaea;
-	color: #333;
+	color: #000;
+	transition: 0.3s ease;
 }
 #para {
 	font-size: 1.5em;
