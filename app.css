@@ -45,7 +45,7 @@ body {
 	height: 100%;
 	position: absolute;
 	top: 0;
-	background: rgba(103, 58, 183, 0.71);
+	background: rgba(8, 61, 119, 0.71);
 	overflow: hidden;
 	transition: 0.4s ease;
 }
@@ -54,7 +54,6 @@ body {
 	font-size: 30px;
 	margin: 3px;
 	text-align: center;
-	/*border: 6px solid white;*/
 	padding: 10px 30px;
 }
 .post i {
@@ -81,8 +80,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/*background-color: #757780;*/
-	background-color: #a3a1a1;
+	background-color: #f7ebe8;
 	border: 3px solid #000;
 	color: #fbfef9;
 	text-shadow: 3px 2px #2d3047;
@@ -104,6 +102,7 @@ body {
 	background: #eaeaea;
 	color: #000;
 	transition: 0.3s ease;
+	font-weight: bold;
 }
 #para {
 	font-size: 1.5em;
